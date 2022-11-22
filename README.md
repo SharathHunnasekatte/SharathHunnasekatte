@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sharath Kumara H K
-- 👀 I’m interested in Coding,Blogs
+- 👋 Hi, I’m Sharath Kumara H K
+- 👀 I’m interested in Coding&Blogs
 - 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on IT
 - 📫 Reach me colourfulsharath@gmail.com
